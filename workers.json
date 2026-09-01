@@ -1,0 +1,66 @@
+[
+  {
+    "id": "w1", "name": "Rakesh Kumar", "trade": "electrician", "area": "Jamalpur",
+    "phone": "+91 98765 43210", "bio": "12 years wiring homes and shops. Fast callouts, fair pricing, own tools.",
+    "verified": true, "premium": true, "isNew": false,
+    "reviews": [
+      { "name": "Sunita D.", "rating": 5, "comment": "Fixed our wiring fault same evening. Very reliable.", "date": "2026-07-02" },
+      { "name": "Manoj T.", "rating": 4, "comment": "Good work, arrived a bit late but explained everything clearly.", "date": "2026-06-18" }
+    ]
+  },
+  {
+    "id": "w2", "name": "Suresh Yadav", "trade": "plumber", "area": "Munger Road",
+    "phone": "+91 91234 56780", "bio": "Handles leak repairs, tank fitting, and bathroom installations.",
+    "verified": true, "premium": false, "isNew": false,
+    "reviews": [
+      { "name": "Priya S.", "rating": 5, "comment": "Sorted a stubborn leak nobody else could fix.", "date": "2026-05-11" }
+    ]
+  },
+  {
+    "id": "w3", "name": "Anil Mahato", "trade": "carpenter", "area": "Jamalpur",
+    "phone": "+91 90000 11122", "bio": "Custom furniture, door and window repair, cupboard fitting.",
+    "verified": false, "premium": false, "isNew": true,
+    "reviews": []
+  },
+  {
+    "id": "w4", "name": "Vikash Singh", "trade": "painter", "area": "Kishanganj Chowk",
+    "phone": "+91 97531 20468", "bio": "Interior and exterior painting, texture work, waterproofing.",
+    "verified": true, "premium": true, "isNew": false,
+    "reviews": [
+      { "name": "Rahul B.", "rating": 5, "comment": "Neat finish, cleaned up after the job too.", "date": "2026-07-20" },
+      { "name": "Kavita R.", "rating": 5, "comment": "Best painter we've hired in years.", "date": "2026-07-01" },
+      { "name": "Arjun M.", "rating": 3, "comment": "Good quality but took longer than promised.", "date": "2026-06-05" }
+    ]
+  },
+  {
+    "id": "w5", "name": "Dilip Prasad", "trade": "mason", "area": "Jamalpur",
+    "phone": "+91 96321 04567", "bio": "Brickwork, plastering, small construction and repair jobs.",
+    "verified": false, "premium": false, "isNew": false,
+    "reviews": [
+      { "name": "Geeta K.", "rating": 4, "comment": "Solid work on our boundary wall.", "date": "2026-04-14" }
+    ]
+  },
+  {
+    "id": "w6", "name": "Farid Alam", "trade": "ac_repair", "area": "Station Road",
+    "phone": "+91 95550 88990", "bio": "AC servicing, gas refill, installation for split and window units.",
+    "verified": true, "premium": false, "isNew": false,
+    "reviews": [
+      { "name": "Nikhil J.", "rating": 5, "comment": "Same-day service in peak summer, very grateful.", "date": "2026-06-28" }
+    ]
+  },
+  {
+    "id": "w7", "name": "Ramesh Chauhan", "trade": "mechanic", "area": "Jamalpur",
+    "phone": "+91 93456 78901", "bio": "Two-wheeler and small car repair, doorstep service available.",
+    "verified": false, "premium": false, "isNew": true,
+    "reviews": []
+  },
+  {
+    "id": "w8", "name": "Meena Devi", "trade": "cleaner", "area": "Munger Road",
+    "phone": "+91 92345 67810", "bio": "Deep home cleaning, move-in/move-out cleaning, weekly packages.",
+    "verified": true, "premium": false, "isNew": false,
+    "reviews": [
+      { "name": "Ayesha F.", "rating": 5, "comment": "Thorough and punctual every time.", "date": "2026-07-15" },
+      { "name": "Sanjay P.", "rating": 4, "comment": "Great job on the kitchen deep clean.", "date": "2026-06-30" }
+    ]
+  }
+]
